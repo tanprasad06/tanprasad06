@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-##🌷 About me 
+## 🌷 About me 
 I am Tanisha, a fijian indian Software Engineering student at the University of Waikato, awarded with the Pacific Excellence Scholarship. I am currently working towards gaining a Software Engineering internship. 
 
-##🎧 Currently Learning
+## 🎧 Currently Learning
 - Java
 - Python
 - C#
@@ -12,7 +12,7 @@ I am Tanisha, a fijian indian Software Engineering student at the University of 
 - Artificial Intelligence
 - Project development
 
-#💻 Tech Stack 
+# 💻 Tech Stack 
 
 **Languages** 
 - Java
