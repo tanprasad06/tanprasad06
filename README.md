@@ -1,24 +1,15 @@
 ## Hi there 👋
 
 ## 🌷 About me 
-I am Tanisha, a fijian indian Software Engineering student at the University of Waikato, awarded with the Pacific Excellence Scholarship. I am currently working towards gaining a Software Engineering internship. 
+I am Tanisha, a Fijian Indian Software Engineering student at the University of Waikato with a passion for problem-solving and developing, awarded with the Pacific Excellence Scholarship. I am currently working towards gaining a Software Engineering internship. 
 
-## 🎧 Currently Learning
-- Java
-- Python
-- C#
-- Web Development
-- Networking
-- Artificial Intelligence
-- Project development
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tanprasad06@gmail.com) 
+
 
 # 💻 Tech Stack 
 
-**Languages** 
-- Java
-- Python
-- C#
-- R
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 **Tools**
 - R Studio
@@ -27,6 +18,12 @@ I am Tanisha, a fijian indian Software Engineering student at the University of 
 - Git
 - GitHub
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tanprasad06&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tanprasad06&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanprasad06&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **tanprasad06/tanprasad06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
